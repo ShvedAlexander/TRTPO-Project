@@ -22,10 +22,13 @@
 
 Поддерживаемые форматы файлов:
 
- Несжатый BIN (BIN)
- Сжатый SMS-BIN (BIN)
- SMS-Container File (BCF)
- Дилерский формат прошивок GDS (BIN)
+* Несжатый BIN (BIN)
+
+* Сжатый SMS-BIN (BIN)
+
+* SMS-Container File (BCF)
+
+* Дилерский формат прошивок GDS (BIN)
 
 ## 2.2 Интерфейс пользователя
 
