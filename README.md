@@ -34,7 +34,7 @@
 
 Вкладка **FLASH**
 
-рисунок 1
+![рисунок 1](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Images/FLASH.png)
 
 Вкладка содержит окно просмотра буфера программы контроллера и кнопок управления:
 
