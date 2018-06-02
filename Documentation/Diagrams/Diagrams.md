@@ -17,50 +17,37 @@
 
 # Диаграммы последовательности
 
-##
-![Диаграмма последовательности 1](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20(1).jpg)
+![Диаграмма последовательности 1]()
+ 
+![Диаграмма последовательности 2]()
 
-## 
-![Диаграмма последовательности 2](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20(2).jpg)
-
-##
-![Диаграмма последовательности 3](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20(3).jpg)
-
-
+![Диаграмма последовательности 3]()
 
 # Диаграммы активности
 
-![Диаграмма активности 1](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20(1).jpg)
+![Диаграмма активности 1]()
 
-##
-![Диаграмма активности 2](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20(2).jpg)
+![Диаграмма активности 2]()
 
-##
-![Диаграмма активности 3](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20(3).jpg)
+![Диаграмма активности 3]()
 
 #  Диаграммы состояний
-![Диаграмма состояний 1](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20(1).jpg)
 
-##
-![Диаграмма состояний 2](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20(2).jpg)
+![Диаграмма состояний 1]()
 
-##
-![Диаграмма состояний 3](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20(3).jpg)
+![Диаграмма состояний 2]()
 
+![Диаграмма состояний 3]()
 
 # Диаграмма классов
 
-![Диаграмма классов](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.jpg)
-
-
+![Диаграмма классов]()
 
 # Диаграмма компонентов
 
-![Диаграмма компонентов](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.jpg)
-
-
+![Диаграмма компонентов]()
 
 # Диаграмма развертывания
 
-![Диаграмма развертывания](https://github.com/ShvedAlexander/Diagram/blob/master/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg)
+![Диаграмма развертывания]()
 
