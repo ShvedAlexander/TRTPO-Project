@@ -45,11 +45,17 @@
 
 #  Диаграммы состояний
 
-![Диаграмма состояний 1]()
+а)
 
-![Диаграмма состояний 2]()
+![Диаграмма состояний 1](https://github.com/ShvedAlexander/TRiTPO/blob/master/Documentation/Diagrams/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20(1).jpg)
 
-![Диаграмма состояний 3]()
+b)
+
+![Диаграмма состояний 2](https://github.com/ShvedAlexander/TRiTPO/blob/master/Documentation/Diagrams/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20(2).jpg)
+
+c)
+
+![Диаграмма состояний 3](https://github.com/ShvedAlexander/TRiTPO/blob/master/Documentation/Diagrams/Images/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9%20(3).jpg)
 
 # Диаграмма классов
 
