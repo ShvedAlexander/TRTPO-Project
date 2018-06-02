@@ -35,7 +35,7 @@
 
 Вкладка **FLASH**
 
-![рисунок 1](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Images/FLASH.png)
+![рисунок 1](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Documentation/Requirements/Images/FLASH.png)
 
 Вкладка содержит окно просмотра буфера программы контроллера и кнопок управления:
 
@@ -45,7 +45,7 @@
 
 Вкладка **Дополнительно**
 
-![рисунок 2](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Images/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE.png)
+![рисунок 2](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Documentation/Requirements/Images/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE.png)
 
 Вкладка содержит окно выбора опций работы программы:
 
