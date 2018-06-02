@@ -53,7 +53,7 @@
 
 Идентификация ЭБУ – позволяет запросить идентификационные данные ЭБУ.
 
-![рисунок 3](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Images/%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.png)
+![рисунок 3](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Documentation/Requirements/Images/%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5.png)
 
 Чтение ошибок – считывает из ЭБУ количество ошибок и отображает их коды.
 
@@ -62,7 +62,7 @@
 
 При программировании ЭБУ вы можете выбрать обновление области калибровочных данных FLASH на следующем запросе:
 
-![рисунок 4](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Images/%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.png)
+![рисунок 4](https://github.com/ShvedAlexander/TRTPO-Project/blob/master/Documentation/Requirements/Images/%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.png)
 
 ## 2.3 Характеристики пользователей
 
